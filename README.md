@@ -2,7 +2,7 @@
 Used Linear Regression to **predict house prices** based on **location, size, and amenities** <br/><br/>
 **Tools Used:** Pandas, NumPy, Matplotlib, Scikit-learn <br/>
 **Result:** Achieved 86% accuracy <br/> <br/>
-**Description:**
+**Description:** <br/>
 Built a user-friendly web app to estimate house prices based on location, area, BHK, and bathrooms. <br/>
 Integrated a linear regression model trained on Bengaluru housing dataset to estimate property prices with high accuracy (86%). <br/>
 Built using Python, Flask, and HTML/CSS for a smooth user experience with real-time predictions. <br/>
