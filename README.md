@@ -1,4 +1,4 @@
-# House-Price-Prediction
+**HousePrice Prediction**
 Used Linear Regression to **predict house prices** based on **location, size, and amenities** <br/>
 **Tools Used:** Pandas, NumPy, Matplotlib, Scikit-learn <br/>
 **Result:** Achieved 86% accuracy <br/>
